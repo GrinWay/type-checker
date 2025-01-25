@@ -1,6 +1,6 @@
 {
   "name": "@grinway/type-checker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The object typeChecker checks javascript types",
   "keywords": [
     "npm",
