@@ -1,0 +1,26 @@
+{
+  "name": "@grinway/type-checker",
+  "version": "1.0.1",
+  "description": "The object typeChecker checks javascript types",
+  "keywords": [
+    "npm",
+    "check",
+    "type",
+    "type-checker"
+  ],
+  "homepage": "https://github.com/GrinWay/type-checker#readme",
+  "bugs": {
+    "url": "https://github.com/GrinWay/type-checker/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrinWay/type-checker.git"
+  },
+  "license": "MIT",
+  "author": "Grigory Koblitskiy <grin180898@outlook.com>",
+  "main": "dist/main.js",
+  "scripts": {}
+}
